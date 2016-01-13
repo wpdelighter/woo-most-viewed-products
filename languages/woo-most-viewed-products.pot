@@ -1,0 +1,62 @@
+# Copyright (C) 2016 Woo Most Viewed Products
+# This file is distributed under the same license as the Woo Most Viewed Products package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Most Viewed Products 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-most-viewed-"
+"products\n"
+"POT-Creation-Date: 2016-01-13 05:20:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: woo-most-viewed-products-widget.php:23
+msgid "Display a list of most viewed products."
+msgstr ""
+
+#: woo-most-viewed-products-widget.php:25
+msgid "WooCommerce Most Viewed"
+msgstr ""
+
+#: woo-most-viewed-products-widget.php:29
+msgid "Most Viewed Products"
+msgstr ""
+
+#: woo-most-viewed-products-widget.php:30
+msgid "Title"
+msgstr ""
+
+#: woo-most-viewed-products-widget.php:38
+msgid "Number of products to show"
+msgstr ""
+
+#: woo-most-viewed-products-widget.php:103 woo-most-viewed-products.php:164
+msgid "No products have been viewed yet !!"
+msgstr ""
+
+#: woo-most-viewed-products.php:129
+msgid "Views"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woo Most Viewed Products"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/woo-most-viewed-products/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Display a list of most viewed products on WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP Delighter"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpdelighter.com/"
+msgstr ""
